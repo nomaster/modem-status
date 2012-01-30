@@ -1,0 +1,15 @@
+# modem-status
+# copyleft by nomaster <nomaster@chaosdorf.de>
+
+# Description
+
+This script checks if your cable modem shows acceptable values. It gathers information from the status page (per web scraping) and displays them. Signal to noise ration, transmit and receive power levels are checked against hard coded values found on the web.
+
+# Requirements
+
+* Ruby
+* Nokogiri gem
+
+# Usage
+
+Download the script and execute it. There is no configuration yet.
